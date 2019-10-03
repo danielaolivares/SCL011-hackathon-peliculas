@@ -37,4 +37,8 @@ header{
     border: none;
     background: none;
 }
-
+#footNote{
+    text-align:center;
+    position: relative; 
+    color: white;
+}
